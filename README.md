@@ -8,3 +8,6 @@ This project is about learning times series forecasting with ML to predict more 
 
 ### Work Together
 
+### Toutube Channels
+
+### Courses
