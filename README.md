@@ -15,7 +15,7 @@ This project is about learning times series forecasting with ML for stock prices
 
 - [x] Learn Technicals Analysis ( Easy )
 <details>
-<summary>Learn Technicals Analysis</summary>
+<summary>Practice Technicals Analysis  ( Easy ) </summary>
 - [x] Support & Resistance ( https://www.youtube.com/watch?v=aJ8Og-iLaas&t=1018s )
 </details> 
 
@@ -23,6 +23,7 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Learn Technicals Analysis ( Hard )
 - [x] OpenBB Terminal ( https://www.youtube.com/watch?v=fqGPK8OVHLk )
 - [ ] Errors to avoid ( https://www.youtube.com/watch?v=3-_3t--Db3M )
+- [ ] Backtesting
 
 
 ## Technologies
