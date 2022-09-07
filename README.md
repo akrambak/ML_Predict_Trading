@@ -24,6 +24,7 @@ This project is about learning times series forecasting with ML for stock prices
 - [x] OpenBB Terminal ( https://www.youtube.com/watch?v=fqGPK8OVHLk )
 - [ ] Errors to avoid ( https://www.youtube.com/watch?v=3-_3t--Db3M )
 - [ ] Backtesting
+- [ ] Patterns and Trends in Time Series Plots (statistics) ( https://www.youtube.com/watch?v=ca0rDWo7IpI )
 
 
 ## Technologies
