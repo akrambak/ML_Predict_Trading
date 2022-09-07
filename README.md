@@ -13,6 +13,13 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Learn Quantitative Analysis ( must be detailed )
 - [x] Learn Fundamental Analysis ( Infinite )
 - [x] Learn Technicals Analysis ( Easy )
+<details>
+  <summary>Details</summary>
+  <p>
+  #### - [x] Support & Resistance ( https://www.youtube.com/watch?v=aJ8Og-iLaas&t=1018s )
+
+  </p>
+</details> 
 - [ ] Learn Technicals Analysis ( Medium )
 - [ ] Learn Technicals Analysis ( Hard )
 - [x] OpenBB Terminal ( https://www.youtube.com/watch?v=fqGPK8OVHLk )
