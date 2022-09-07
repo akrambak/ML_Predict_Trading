@@ -30,9 +30,9 @@ This project is about learning times series forecasting with ML for stock prices
 ### Work Together
 
 ### Toutube Channels
-https://www.youtube.com/c/QuantPy
-https://www.youtube.com/c/DigitalSreeni
-https://www.youtube.com/c/CodeTradingCafe
+https://www.youtube.com/c/QuantPy<br>
+https://www.youtube.com/c/DigitalSreeni<br>
+https://www.youtube.com/c/CodeTradingCafe<br>
 
 
 ### Courses
