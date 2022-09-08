@@ -26,7 +26,7 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Backtesting
 - [ ] Patterns and Trends in Time Series Plots (statistics) ( https://www.youtube.com/watch?v=ca0rDWo7IpI )
 - [ ] Stock Trading Risk Management Calculator ( https://www.youtube.com/watch?v=Oq4BBZvuyec )
-- [ ] 
+- [ ] LSTM Multivariate Time Series Forecasting in Keras
 
 
 ## Technologies
