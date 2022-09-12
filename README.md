@@ -5,6 +5,7 @@ This project is about learning times series forecasting with ML for stock prices
 ## PLAN
 - [x] Create Github
 - [x] Learn about Nash-equilibrium
+- [x] Practice about Nash-equilibrium ( Python )
 - [ ] Learn ML :tada:
 - [ ] Time Varying Volatility Models for Stochastic Finance | Weather Derivatives ( https://www.youtube.com/watch?v=Kjpf4cvfsC0 )
 - [ ] An introduction to time series forecasting ( https://www.youtube.com/watch?v=YQH-gKRuwsk&t=267s )
