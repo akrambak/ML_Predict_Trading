@@ -28,6 +28,10 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Patterns and Trends in Time Series Plots (statistics) ( https://www.youtube.com/watch?v=ca0rDWo7IpI )
 - [ ] Stock Trading Risk Management Calculator ( https://www.youtube.com/watch?v=Oq4BBZvuyec )
 - [ ] LSTM Multivariate Time Series Forecasting in Keras
+- [ ] Algorithmically Detecting (and Trading) Technical Chart Patterns with Python
+ ( https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed )
+- [ ] Detect Technical Breakouts Using Python ( https://medium.datadriveninvestor.com/how-to-algorithmically-detect-technical-chart-patterns-155ca13b7b26 )
+
 
 
 ## Technologies
