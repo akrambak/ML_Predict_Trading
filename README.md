@@ -31,7 +31,7 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Algorithmically Detecting (and Trading) Technical Chart Patterns with Python
  ( https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed )
 - [ ] Detect Technical Breakouts Using Python ( https://medium.datadriveninvestor.com/how-to-algorithmically-detect-technical-chart-patterns-155ca13b7b26 )
-
+- [ ] Probabilistic Forecasts: Pinball Loss Function ( https://towardsdatascience.com/probabilistic-forecasts-pinball-loss-function-baf86a5a14d0 )
 
 
 ## Technologies
