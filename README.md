@@ -38,6 +38,8 @@ This project is about learning times series forecasting with ML for stock prices
 
 ### Work Together
 
+I search to built a team about this project, so if you are interessted email me : me@bak-dev.com
+
 ### Toutube Channels
 https://www.youtube.com/c/QuantPy<br>
 https://www.youtube.com/c/DigitalSreeni<br>
