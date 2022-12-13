@@ -13,6 +13,7 @@ This project is about learning times series forecasting with ML for stock prices
 - [ ] Learn ARIMA MODEL
 - [ ] Learn Quantitative Analysis ( must be detailed )
 - [x] Learn Fundamental Analysis ( Infinite )
+- [ ] OpenAI and ChatGPT
 
 - [x] Learn Technicals Analysis ( Easy )
 <details>
